@@ -1,0 +1,7 @@
+path: C:/Yolo/Fruit Yolo/data
+train: train/images
+val: validation/images
+nc: 2
+names:
+- Defected Orange
+- Good Orange
