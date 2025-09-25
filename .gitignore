@@ -1,0 +1,30 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env/
+.venv/
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Data & datasets
+*.zip
+*.tar
+*.gz
+data/
+custom_data/
+datasets/
+
+# YOLO training outputs
+runs/
+weights/
+*.pt
+
+# System files
+.DS_Store
+Thumbs.db
